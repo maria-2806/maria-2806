@@ -6,7 +6,7 @@
 
 <br>
   
-I'm currently in my second year of Computer Science Engineering at VIT Chennai, and I’m passionate about learning web development and building cool websites. I'm exploring various technologies and honing my skills by building projects.
+I'm currently in my second year of Computer Science Engineering at VIT Chennai. I’m passionate about learning web development and building cool websites. I'm exploring various technologies and honing my skills by building projects.
 
 ##  What I’m working with:
 
