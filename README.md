@@ -38,10 +38,6 @@ I'm currently in my second year of Computer Science Engineering at VIT Chennai. 
 
 [<img align="left" alt="maria | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-[<img align="left" alt="maria__2806 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://instagram.com/maria__2806
 [linkedin]: https://in.linkedin.com/in/maria-suhail-7b4041247/
 
 <br>
