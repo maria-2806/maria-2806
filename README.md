@@ -15,8 +15,14 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 - 👩‍💻 I'm a <b>Computer Science Engineering student at VIT Chennai</b>.
+<br><br>
+
 - 💖 I’m passionate about <b>building meaningful web experiences</b> with beautiful UI and real-world functionality.
+<br><br>
+
 - 🌱 Currently exploring <b>Machine Learning</b>.
+<br><br>
+
 - 📫 How to reach me: **mariasuhail762@gmail.com**
 
 <br clear="right" />
@@ -66,7 +72,10 @@
 
 <a href="https://github.com/maria-2806">
   <img src="https://github-readme-stats.vercel.app/api?username=maria-2806&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" />
+  <br>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-2806&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maria-2806&theme=blue-green&hide_border=true" />
 
 </a>
