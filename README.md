@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<br><br>
+<br>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F472B6&center=true&width=460&lines=Hi+%F0%9F%91%8B%2C+I'm+Maria+Suhail+;Full-Stack+Developer+%26+UI%2FUX+Designer;Always+curious+%26+eager+to+learn" alt="Typing SVG" /></a>
@@ -12,16 +12,16 @@
 
 # 💫 About Me:
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="300px" align="right"> 
 
 - 👩‍💻 I'm a <b>Computer Science Engineering student at VIT Chennai</b>.
-<br><br>
+<br>
 
 - 💖 I’m passionate about <b>building meaningful web experiences</b> with beautiful UI and real-world functionality.
-<br><br>
+<br>
 
 - 🌱 Currently exploring <b>Machine Learning</b>.
-<br><br>
+<br>
 
 - 📫 How to reach me: **mariasuhail762@gmail.com**
 
