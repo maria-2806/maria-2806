@@ -2,10 +2,10 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<br>
+<br><br>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F472B6&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Maria+Suhail+;Full-Stack+Developer+%26+UI%2FUX+Designer;Always+curious+%26+eager+to+learn" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F472B6&center=true&width=460&lines=Hi+%F0%9F%91%8B%2C+I'm+Maria+Suhail+;Full-Stack+Developer+%26+UI%2FUX+Designer;Always+curious+%26+eager+to+learn" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="start"></h3>
