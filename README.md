@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 British cat owners spend roughly 550 million pounds yearly on cat food.
+🐾 The ancestor of all domestic cats is the African Wild Cat which still exists today.
 <!--END_SECTION:catfact-->
 
 
