@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 On average, cats spend 2/3 of every day sleeping. That means a nine-year-old cat has been awake for only three years of its life.
+🐾 British cat owners spend roughly 550 million pounds yearly on cat food.
 <!--END_SECTION:catfact-->
 
 
