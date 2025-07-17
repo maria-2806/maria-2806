@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 The strongest climber among the big cats, a leopard can carry prey twice its weight up a tree.
+🐾 Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second.
 <!--END_SECTION:catfact-->
 
 
