@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 British cat owners spend roughly 550 million pounds yearly on cat food.
+🐾 It has been scientifically proven that owning cats is good for our health and can decrease the occurrence of high blood pressure and other illnesses.
 <!--END_SECTION:catfact-->
 
 
