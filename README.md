@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 In the 1930s, two Russian biologists discovered that color change in Siamese kittens depend on their body temperature. Siamese cats carry albino genes that work only when the body temperature is above 98° F. If these kittens are left in a very warm room, their points won’t darken and they will stay a creamy white.
+🐾 Isaac Newton invented the cat flap. Newton was experimenting in a pitch-black room. Spithead, one of his cats, kept opening the door and wrecking his experiment. The cat flap kept both Newton and Spithead happy.
 <!--END_SECTION:catfact-->
 
 
