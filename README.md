@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 According to a Gallup poll, most American pet owners obtain their cats by adopting strays.
+🐾 A cat rubs against people not only to be affectionate but also to mark out its territory with scent glands around its face. The tail area and paws also carry the cat’s scent.
 <!--END_SECTION:catfact-->
 
 
