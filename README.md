@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 The first formal cat show was held in England in 1871; in America, in 1895.
+🐾 In the 1750s, Europeans introduced cats into the Americas to control pests.
 <!--END_SECTION:catfact-->
 
 
