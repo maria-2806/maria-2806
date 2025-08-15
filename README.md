@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 In the 1750s, Europeans introduced cats into the Americas to control pests.
+🐾 Cats eat grass to aid their digestion and to help them get rid of any fur in their stomachs.
 <!--END_SECTION:catfact-->
 
 
