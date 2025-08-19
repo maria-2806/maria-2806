@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cats have individual preferences for scratching surfaces and angles. Some are horizontal scratchers while others exercise their claws vertically.
+🐾 The strongest climber among the big cats, a leopard can carry prey twice its weight up a tree.
 <!--END_SECTION:catfact-->
 
 
