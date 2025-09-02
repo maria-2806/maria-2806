@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Sir Isaac Newton is credited with creating the concept for the pet door that many cats use today to travel outdoors.
+🐾 An adult lion's roar can be heard up to five miles (eight kilometers) away.
 <!--END_SECTION:catfact-->
 
 
