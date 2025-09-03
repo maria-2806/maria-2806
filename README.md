@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 An adult lion's roar can be heard up to five miles (eight kilometers) away.
+🐾 The way you treat kittens in the early stages of it's life will render it's personality traits later in life.
 <!--END_SECTION:catfact-->
 
 
