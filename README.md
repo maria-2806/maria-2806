@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 When a family cat died in ancient Egypt, family members would mourn by shaving off their eyebrows. They also held elaborate funerals during which they drank wine and beat their breasts. The cat was embalmed with a sculpted wooden mask and the tiny mummy was placed in the family tomb or in a pet cemetery with tiny mummies of mice.
+🐾 The cat's tail is used to maintain balance.
 <!--END_SECTION:catfact-->
 
 
