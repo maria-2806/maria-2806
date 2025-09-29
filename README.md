@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Baking chocolate is the most dangerous chocolate to your cat.
+🐾 Unlike humans, cats are usually lefties. Studies indicate that their left paw is typically their dominant paw.
 <!--END_SECTION:catfact-->
 
 
