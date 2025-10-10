@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cat bites are more likely to become infected than dog bites.
+🐾 A cat can jump up to five times its own height in a single bound.
 <!--END_SECTION:catfact-->
 
 
