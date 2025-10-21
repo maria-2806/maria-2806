@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Tigers are excellent swimmers and do not avoid water.
+🐾 A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through.
 <!--END_SECTION:catfact-->
 
 
