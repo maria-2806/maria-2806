@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cats, especially older cats, do get cancer. Many times this disease can be treated successfully.
+🐾 Ailurophile is the word cat lovers are officially called.
 <!--END_SECTION:catfact-->
 
 
