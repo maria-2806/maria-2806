@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 The smallest wildcat today is the Black-footed cat. The females are less than 20 inches (50 cm) long and can weigh as little as 2.5 lbs (1.2 kg).
+🐾 Cats prefer to remain non-confrontational. They will not fight to show dominance, but rather to stake their territory. Cats will actually go to extremes to avoid one another in order to prevent a possible confrontation.
 <!--END_SECTION:catfact-->
 
 
