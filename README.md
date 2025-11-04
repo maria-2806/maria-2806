@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 A cat’s nose pad is ridged with a unique pattern, just like the fingerprint of a human.
+🐾 Cats spend nearly 1/3 of their waking hours cleaning themselves.
 <!--END_SECTION:catfact-->
 
 
