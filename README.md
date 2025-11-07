@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cats' eyes shine in the dark because of the tapetum, a reflective layer in the eye, which acts like a mirror.
+🐾 The Pilgrims were the first to introduce cats to North America.
 <!--END_SECTION:catfact-->
 
 
