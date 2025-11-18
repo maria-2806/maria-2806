@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 There are approximately 100 breeds of cat.
+🐾 When a cat chases its prey, it keeps its head level. Dogs and humans bob their heads up and down.
 <!--END_SECTION:catfact-->
 
 
