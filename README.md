@@ -69,13 +69,10 @@
 ---
 
 # 📊 GitHub Stats:
-
 <a href="https://github.com/maria-2806">
-  <img src="https://github-readme-stats.vercel.app/api?username=maria-2806&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" />
+  <img src="https://readme-stats-eight-red.vercel.app/api?username=maria-2806&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" />
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-2806&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-  <br>
-  
-
+  <img src="https://readme-stats-eight-red.vercel.app/api/top-langs/?username=maria-2806&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </a>
+
