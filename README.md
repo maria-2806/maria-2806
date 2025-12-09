@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cats have 30 teeth (12 incisors, 10 premolars, 4 canines, and 4 molars), while dogs have 42. Kittens have baby teeth, which are replaced by permanent teeth around the age of 7 months.
+🐾 Cats have individual preferences for scratching surfaces and angles. Some are horizontal scratchers while others exercise their claws vertically.
 <!--END_SECTION:catfact-->
 
 
