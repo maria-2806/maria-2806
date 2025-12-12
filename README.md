@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 The name "jaguar" comes from a Native American word meaning "he who kills with one leap".
+🐾 Cats only sweat through their paws and nowhere else on their body
 <!--END_SECTION:catfact-->
 
 
