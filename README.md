@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 According to a Gallup poll, most American pet owners obtain their cats by adopting strays.
+🐾 A tomcat (male cat) can begin mating when he is between 7 and 10 months old.
 <!--END_SECTION:catfact-->
 
 
