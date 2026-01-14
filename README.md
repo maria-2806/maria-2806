@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cats have "nine lives" thanks to a flexible spine and powerful leg and back muscles
+🐾 Blue-eyed, white cats are often prone to deafness.
 <!--END_SECTION:catfact-->
 
 
