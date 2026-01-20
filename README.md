@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 A cat cannot see directly under its nose.
+🐾 Cats take between 20-40 breaths per minute.
 <!--END_SECTION:catfact-->
 
 
