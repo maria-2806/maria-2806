@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 The first true cats came into existence about 12 million years ago and were the Proailurus.
+🐾 The leopard is the most widespread of all big cats.
 <!--END_SECTION:catfact-->
 
 
