@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Ginger tabby cats can have freckles around their mouths and on their eyelids!
+🐾 The cat appears to be the only domestic companion animal not mentioned in the Bible.
 <!--END_SECTION:catfact-->
 
 
