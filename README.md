@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Your cat's heart beats at a rate almost double that of yours, from 110-140 beats per minute.
+🐾 Sir Isaac Newton is credited with creating the concept for the pet door that many cats use today to travel outdoors.
 <!--END_SECTION:catfact-->
 
 
