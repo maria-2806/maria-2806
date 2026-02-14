@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 A cat has the ability to rotate their ears 180 degrees,with the help of 32 muscles that they use to control them.
+🐾 A cat has more bones than a human being; humans have 206 and the cat has 230 bones.
 <!--END_SECTION:catfact-->
 
 
