@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Normal body temperature for a cat is 102 degrees F.
+🐾 The average cat food meal is the equivalent to about five mice.
 <!--END_SECTION:catfact-->
 
 
