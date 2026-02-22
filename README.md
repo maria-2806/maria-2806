@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 All cats need taurine in their diet to avoid blindness. Cats must also have fat in their diet as they are unable to produce it on their own.
+🐾 Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second.
 <!--END_SECTION:catfact-->
 
 
