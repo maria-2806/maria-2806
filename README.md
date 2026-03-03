@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 In relation to their body size, cats have the largest eyes of any mammal.
+🐾 The cat's footpads absorb the shocks of the landing when the cat jumps.
 <!--END_SECTION:catfact-->
 
 
