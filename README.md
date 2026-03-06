@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 The first cat show was in 1871 at the Crystal Palace in London.
+🐾 The Maine Coone is the only native American long haired breed.
 <!--END_SECTION:catfact-->
 
 
