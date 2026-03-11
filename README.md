@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Long, muscular hind legs enable snow leopards to leap seven times their own body length in a single bound.
+🐾 After humans, mountain lions have the largest range of any mammal in the Western Hemisphere.
 <!--END_SECTION:catfact-->
 
 
