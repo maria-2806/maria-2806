@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 While many cats enjoy milk, it will give some cats diarrhea.
+🐾 On average, a cat will sleep for 16 hours a day.
 <!--END_SECTION:catfact-->
 
 
