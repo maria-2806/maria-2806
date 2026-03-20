@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 When a cat drinks, its tongue - which has tiny barbs on it - scoops the liquid up backwards.
+🐾 In just 7 years, one un-spayed female cat and one un-neutered male cat and their offspring can result in 420,000 kittens.
 <!--END_SECTION:catfact-->
 
 
