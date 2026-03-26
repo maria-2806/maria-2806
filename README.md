@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 A cat can spend five or more hours a day grooming himself.
+🐾 Cats are North America’s most popular pets: there are 73 million cats compared to 63 million dogs. Over 30% of households in North America own a cat.
 <!--END_SECTION:catfact-->
 
 
