@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 When a cats rubs up against you, the cat is marking you with it's scent claiming ownership.
+🐾 The cat appears to be the only domestic companion animal not mentioned in the Bible.
 <!--END_SECTION:catfact-->
 
 
