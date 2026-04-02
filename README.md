@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Purring does not always indicate that a cat is happy and healthy - some cats will purr loudly when they are terrified or in pain.
+🐾 There are approximately 100 breeds of cat.
 <!--END_SECTION:catfact-->
 
 
