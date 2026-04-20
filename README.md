@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 It has been scientifically proven that stroking a cat can lower one's blood pressure.
+🐾 A cat has approximately 60 to 80 million olfactory cells (a human has between 5 and 20 million).
 <!--END_SECTION:catfact-->
 
 
