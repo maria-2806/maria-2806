@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 A cat has approximately 60 to 80 million olfactory cells (a human has between 5 and 20 million).
+🐾 The life expectancy of cats has nearly doubled since 1930 - from 8 to 16 years.
 <!--END_SECTION:catfact-->
 
 
