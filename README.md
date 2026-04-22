@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 The life expectancy of cats has nearly doubled since 1930 - from 8 to 16 years.
+🐾 Cats lap liquid from the underside of their tongue, not from the top.
 <!--END_SECTION:catfact-->
 
 
