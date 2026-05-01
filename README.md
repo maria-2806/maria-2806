@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 A cat has two vocal chords, and can make over 100 sounds.
+🐾 A cat has 230 bones in its body. A human has 206. A cat has no collarbone, so it can fit through any opening the size of its head.
 <!--END_SECTION:catfact-->
 
 
