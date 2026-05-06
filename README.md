@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 The average lifespan of an outdoor-only cat is about 3 to 5 years while an indoor-only cat can live 16 years or much longer.
+🐾 In Ancient Egypt, when a person's house cat passed away, the owner would shave their eyebrows to reflect their grief.
 <!--END_SECTION:catfact-->
 
 
