@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 About 37% of American homes today have at least 1 cat.
+🐾 Cats respond better to women than to men, probably due to the fact that women's voices have a higher pitch.
 <!--END_SECTION:catfact-->
 
 
