@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cats respond better to women than to men, probably due to the fact that women's voices have a higher pitch.
+🐾 A tiger's stripes are like fingerprints
 <!--END_SECTION:catfact-->
 
 
