@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Grown cats have 30 teeth. Kittens have about 26 temporary teeth, which they lose when they are about 6 months old.
+🐾 A female cat is called a queen or a molly.
 <!--END_SECTION:catfact-->
 
 
