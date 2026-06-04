@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 It is estimated that cats can make over 60 different sounds.
+🐾 The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
 <!--END_SECTION:catfact-->
 
 
