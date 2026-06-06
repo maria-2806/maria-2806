@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cats are extremely sensitive to vibrations. Cats are said to detect earthquake tremors 10 or 15 minutes before humans can.
+🐾 Cat families usually play best in even numbers. Cats and kittens should be aquired in pairs whenever possible.
 <!--END_SECTION:catfact-->
 
 
