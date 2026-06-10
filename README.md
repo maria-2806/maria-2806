@@ -59,7 +59,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 The average cat can jump 8 feet in a single bound, nearly six times its body length!
+🐾 A cat will tremble or shiver when it is extreme pain.
 <!--END_SECTION:catfact-->
 
 
