@@ -16,10 +16,13 @@
 
 - 🎓 **Computer Science Engineering Student** at VIT Chennai
 <br>
+
 - 🛠️ **Full-Stack Developer** focused on building clean, performant, and user-centric web applications
 <br>
+
 - 🧠 **Currently Learning:** Deepening my knowledge in Machine Learning
 <br>
+
 - ✉️ **Get in touch:** [mariasuhail762@gmail.com](mailto:mariasuhail762@gmail.com)
 
 <br clear="right" />
