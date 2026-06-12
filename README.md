@@ -5,25 +5,19 @@
 <br>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F472B6&center=true&width=460&lines=Hi+%F0%9F%91%8B%2C+I'm+Maria+Suhail+;Full-Stack+Developer+%26+UI%2FUX+Designer;Always+curious+%26+eager+to+learn" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F472B6&center=true&width=460&lines=Hi+%F0%9F%91%8B%2C+I'm+Maria+Suhail+;Full-Stack+Developer+%26+UI%2FUX+Designer" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="start"></h3>
 
-# 💫 About Me:
+# 💻 Profile:
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="300px" align="right"> 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="250px" max-width="250px" width="250px" align="right"> 
 
-- 👩‍💻 I'm a <b>Computer Science Engineering student at VIT Chennai</b>.
-<br>
-
-- 💖 I’m passionate about <b>building meaningful web experiences</b> with beautiful UI and real-world functionality.
-<br>
-
-- 🌱 Currently exploring <b>Machine Learning</b>.
-<br>
-
-- 📫 How to reach me: **mariasuhail762@gmail.com**
+- 🎓 **Computer Science Engineering Student** at VIT Chennai
+- 🛠️ **Full-Stack Developer** focused on building clean, performant, and user-centric web applications
+- 🧠 **Currently Learning:** Deepening my knowledge in Machine Learning
+- ✉️ **Get in touch:** [mariasuhail762@gmail.com](mailto:mariasuhail762@gmail.com)
 
 <br clear="right" />
 
@@ -34,22 +28,27 @@
 
 ## 💻 Tech Stack:
 
+
+
+![Next.js](https://img.shields.io/badge/next.js-%23121011.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-%23121011.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-%2320232a.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
 
 ---
 
