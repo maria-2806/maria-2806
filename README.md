@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
+🐾 A cat can jump 5 times as high as it is tall.
 <!--END_SECTION:catfact-->
 
 
