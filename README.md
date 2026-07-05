@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 One reason that kittens sleep so much is because a growth hormone is released only during sleep.
+🐾 Mountain lions are strong jumpers, thanks to muscular hind legs that are longer than their front legs.
 <!--END_SECTION:catfact-->
 
 
