@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cats have 32 muscles that control the outer ear (humans have only 6). A cat can independently rotate its ears 180 degrees.
+🐾 A domestic cat can run at speeds of 30 mph.
 <!--END_SECTION:catfact-->
 
 
