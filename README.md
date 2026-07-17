@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 When a domestic cat goes after mice, about 1 pounce in 3 results in a catch.
+🐾 There are approximately 60,000 hairs per square inch on the back of a cat and about 120,000 per square inch on its underside.
 <!--END_SECTION:catfact-->
 
 
