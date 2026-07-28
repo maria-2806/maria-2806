@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 While many cats enjoy milk, it will give some cats diarrhea.
+🐾 In just seven years, a single pair of cats and their offspring could produce a staggering total of 420,000 kittens.
 <!--END_SECTION:catfact-->
 
 
