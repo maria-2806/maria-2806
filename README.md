@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cats have individual preferences for scratching surfaces and angles. Some are horizontal scratchers while others exercise their claws vertically.
+🐾 You check your cats pulse on the inside of the back thigh, where the leg joins to the body. Normal for cats: 110-170 beats per minute.
 <!--END_SECTION:catfact-->
 
 
