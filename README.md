@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Some common houseplants poisonous to cats include: English Ivy, iris, mistletoe, philodendron, and yew.
+🐾 The technical term for a cat’s hairball is a “bezoar.”
 <!--END_SECTION:catfact-->
 
 
