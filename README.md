@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cats lap liquid from the underside of their tongue, not from the top.
+🐾 Cats with long, lean bodies are more likely to be outgoing, and more protective and vocal than those with a stocky build.
 <!--END_SECTION:catfact-->
 
 
