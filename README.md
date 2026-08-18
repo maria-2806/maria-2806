@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cats have the largest eyes of any mammal.
+🐾 A cat’s back is extremely flexible because it has up to 53 loosely fitting vertebrae. Humans only have 34.
 <!--END_SECTION:catfact-->
 
 
