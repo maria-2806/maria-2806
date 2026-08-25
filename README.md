@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cheetahs do not roar, as the other big cats do. Instead, they purr.
+🐾 The first true cats came into existence about 12 million years ago and were the Proailurus.
 <!--END_SECTION:catfact-->
 
 
