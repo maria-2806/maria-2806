@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Many cats cannot properly digest cow's milk. Milk and milk products give them diarrhea.
+🐾 Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz.
 <!--END_SECTION:catfact-->
 
 
