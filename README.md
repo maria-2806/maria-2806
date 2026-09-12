@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second.
+🐾 An adult lion's roar can be heard up to five miles (eight kilometers) away.
 <!--END_SECTION:catfact-->
 
 
