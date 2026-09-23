@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 A form of AIDS exists in cats.
+🐾 Cats do not think that they are little people. They think that we are big cats. This influences their behavior in many ways.
 <!--END_SECTION:catfact-->
 
 
