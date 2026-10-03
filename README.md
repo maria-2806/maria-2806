@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cats only use their meows to talk to humans, not each other. The only time they meow to communicate with other felines is when they are kittens to signal to their mother.
+🐾 The cat appears to be the only domestic companion animal not mentioned in the Bible.
 <!--END_SECTION:catfact-->
 
 
