@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 A cat’s hearing is better than a dog’s. And a cat can hear high-frequency sounds up to two octaves higher than a human.
+🐾 A cat usually has about 12 whiskers on each side of its face.
 <!--END_SECTION:catfact-->
 
 
