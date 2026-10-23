@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 A cat’s jaw can’t move sideways, so a cat can’t chew large chunks of food.
+🐾 There are approximately 60,000 hairs per square inch on the back of a cat and about 120,000 per square inch on its underside.
 <!--END_SECTION:catfact-->
 
 
