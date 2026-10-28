@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cats are now Britain's favourite pet: there are 7.7 million cats as opposed to 6.6 million dogs.
+🐾 Cats lived with soldiers in trenches, where they killed mice during World War I.
 <!--END_SECTION:catfact-->
 
 
