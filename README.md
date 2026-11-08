@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters).
+🐾 Heat occurs several times a year and can last anywhere from 3 to 15 days.
 <!--END_SECTION:catfact-->
 
 
