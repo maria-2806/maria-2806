@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Cats see six times better in the dark and at night than humans.
+🐾 The life expectancy of cats has nearly doubled over the last fifty years.
 <!--END_SECTION:catfact-->
 
 
