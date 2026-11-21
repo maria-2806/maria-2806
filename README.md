@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 There are up to 60 million feral cats in the United States alone.
+🐾 Cheetahs do not roar, as the other big cats do. Instead, they purr.
 <!--END_SECTION:catfact-->
 
 
