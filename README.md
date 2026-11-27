@@ -64,7 +64,7 @@
 <img src="https://i.pinimg.com/originals/b5/65/bd/b565bd72e790101714b9a35fd490eec4.gif" width="100px" align="right" />
 
 <!--START_SECTION:catfact-->
-🐾 Since cats are so good at hiding illness, even a single instance of a symptom should be taken very seriously.
+🐾 Cats can predict earthquakes. We humans are not 100% sure how they do it. There are several different theories.
 <!--END_SECTION:catfact-->
 
 
